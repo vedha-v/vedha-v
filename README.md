@@ -9,7 +9,6 @@ I also dabble in ui/ux designing.
 #needtotouchgrass
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width=25% />
-<br/>
 
 ## Here are some tools I use
 
