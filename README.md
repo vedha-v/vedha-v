@@ -12,7 +12,16 @@ I also dabble in ui/ux designing.
 
 ### Here are some tools I use
 
-![[python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]
+[![python]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})]
+
+[![mySQL]((https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)})]
+
+[![JSX]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})]
+
+[![figma]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})]
+
+[![canva]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})]
+
 <!--
 **vedha-v/vedha-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
