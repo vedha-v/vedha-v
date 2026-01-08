@@ -1,4 +1,4 @@
-## hey    (～￣▽￣)～
+## Hey    (～￣▽￣)～
 ### I'm Vedha
 
 Welcome to my Github page! 
@@ -8,7 +8,7 @@ I'm a coding enthusiast and i love learning new things. I also enjoy learning ne
 I also dabble in ui/ux designing. 
 #needtotouchgrass
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width=30% />
 
 ### Here are some tools I use
 
