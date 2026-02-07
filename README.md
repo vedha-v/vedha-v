@@ -4,8 +4,7 @@
 Welcome to my Github page! 
 
 
-I'm a coding enthusiast and i love learning new things. I also enjoy learning new things, experimenting with ideas, and turning logic into something useful (or at least interesting)
-I also dabble in ui/ux designing. 
+I’m a coding enthusiast who loves learning and experimenting with new ideas. I enjoy turning logic into something useful (or at least interesting), whether that’s through code or problem-solving. I also dabble in UI/UX design, exploring how things can work well and feel intuitive.
 #needtotouchgrass
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width=25% />
